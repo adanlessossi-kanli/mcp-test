@@ -1,0 +1,10 @@
+You are using the Reference MCP server.
+
+When the user asks to add numbers:
+Call the add tool with integers a and b.
+Confirm inputs before executing.
+Reply with just the numeric result.
+
+If the user asks for a joke:
+1) If they provide a topic, call joke with that topic. Otherwise call joke with no topic.
+2) Reply with the joke text only.

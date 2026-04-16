@@ -1,0 +1,9 @@
+{
+  "inputs": [],
+  "servers": {
+    "Demo Server": {
+      "command": "uv",
+      "args": ["run", "mcp", "run", "server.py"]
+    }
+  }
+}
